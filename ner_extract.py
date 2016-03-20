@@ -1,5 +1,6 @@
 import nltk
 import codecs
+import collections
 from pprint import pprint
 
 nltk.download('punkt')
@@ -67,7 +68,16 @@ if __name__ == '__main__':
         for id, text in extract_feeds(f):
             keywords.append((id, extract_entity_names(text)))
 
+    words = []
+    for id, tokens in keywords:
+        for token in tokens:
+            words.append(token)
+    words = list(set(words))
+
+    counter=collections.Counter(words)
+    words = counter.most_common(100)
+    words = map(lambda t: t[0], words)
+
     with codecs.open('keywords.dict', 'w', 'utf-8') as f:
-        for id, tokens in keywords:
-            for token in tokens:
-                f.write("%d %s\n" % (id, token))
+        for token in words:
+            f.write("%s\n" % token)
