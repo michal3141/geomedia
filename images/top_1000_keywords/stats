@@ -1,0 +1,65 @@
+Degree c. distribution
+
+count    784.000000
+mean       0.052291
+std        0.085545
+min        0.001277
+25%        0.002554
+50%        0.012771
+75%        0.061303
+max        0.530013
+dtype: float64
+Max: media
+Min: top qld
+Eigenvector c. distribution
+
+count    7.840000e+02
+mean     2.113174e-02
+std      2.881004e-02
+min      4.487129e-23
+25%      1.156231e-03
+50%      6.769962e-03
+75%      3.125537e-02
+max      1.201186e-01
+dtype: float64
+Max: media
+Min: norfolk show
+Closeness c. distribution
+
+count    784.000000
+mean       0.430726
+std        0.074252
+min        0.001277
+25%        0.380052
+50%        0.425602
+75%        0.476130
+max        0.675105
+dtype: float64
+Max: media
+Min: japanese kwantung
+Betweenness c. distribution
+
+count    7.840000e+02
+mean     1.712462e-03
+std      6.417165e-03
+min      0.000000e+00
+25%      0.000000e+00
+50%      9.096123e-07
+75%      1.899241e-04
+max      7.683398e-02
+dtype: float64
+Max: media
+Min: top qld
+PageRank c. distribution
+
+count    784.000000
+mean       0.001276
+std        0.001856
+min        0.000214
+25%        0.000243
+50%        0.000468
+75%        0.001411
+max        0.013503
+dtype: float64
+Max: media
+Min: bon jovi

@@ -12,7 +12,9 @@ nltk.download('maxent_ne_chunker')
 BASE = '/home/dominik/Studia/integracja/geomedia/Geomedia_extract_AGENDA/Geomedia_extract_AGENDA/'
 
 FILES = [
-    BASE + 'en_AUS_austra_int/rss_unique.csv'
+    BASE + 'en_AUS_hersun_int/rss_unique.csv',
+    BASE + 'en_CAN_starca_int/rss_unique.csv',
+    BASE + 'en_CHN_chinad_int/rss_unique.csv',
 ]
 
 
@@ -75,7 +77,7 @@ if __name__ == '__main__':
     words = list(set(words))
 
     counter=collections.Counter(words)
-    words = counter.most_common(100)
+    words = counter.most_common(1000)
     words = map(lambda t: t[0], words)
 
     with codecs.open('keywords.dict', 'w', 'utf-8') as f:

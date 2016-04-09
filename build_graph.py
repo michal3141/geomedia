@@ -2,6 +2,7 @@ import sys
 import codecs
 import networkx
 from nltk.tokenize import TweetTokenizer
+import re
 
 
 def read_dict(path):
@@ -21,6 +22,7 @@ def read_feeds(path):
         for line in lines:
             quotes = re.findall(r'\"(.+?)\"',line)
             sentence = "%s. %s" % (quotes[-2], quotes[-1])
+            sentence = re.sub('[?.!/;:,]', ' ', sentence).lower()
             sentences.append(sentence)
         return sentences
 
@@ -29,7 +31,7 @@ if __name__ == '__main__':
 
         DICT = 'keywords.dict'
 
-        NETWORK = 'net.graphml'
+        NETWORK = 'top_1000_keywords.graphml'
 
         FEEDS_BASE = '/home/dominik/Studia/integracja/geomedia/Geomedia_extract_AGENDA/Geomedia_extract_AGENDA/'
         FEEDS = [
@@ -62,11 +64,12 @@ if __name__ == '__main__':
         keywords = read_dict(DICT)
         keywords = map(lambda s: s.lower(), keywords)
 
-
         filtered = []
         for i in range(len(sentences)):
-            words = keywords[:]
-            words = filter(lambda w: w in sentences[i].lower(), words)
+            words = []
+            for w in keywords:
+                if ' '+w+' ' in sentences[i]:
+                    words.append(w)
             filtered.append(words)
             if i % 10000 == 0:
                 print '%d sentences filtered' % i
