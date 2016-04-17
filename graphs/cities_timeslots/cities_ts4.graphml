@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="houston" />
+    <node id="madison" />
+    <node id="canberra" />
+    <node id="queen victoria" />
+    <node id="brisbane" />
+    <node id="cambridge" />
+    <node id="london" />
+    <node id="mosul" />
+    <node id="richmond" />
+    <node id="chihuahua" />
+    <node id="belfast" />
+    <node id="mumbai" />
+    <node id="paris" />
+    <node id="shanghai" />
+    <node id="sochi" />
+    <node id="damascus" />
+    <node id="new orleans" />
+    <node id="perth" />
+    <node id="sydney" />
+    <node id="ipswich" />
+    <node id="vancouver" />
+    <node id="darwin" />
+    <node id="phuket" />
+    <node id="south brisbane" />
+    <node id="new york city" />
+    <node id="delhi" />
+    <node id="virginia" />
+    <node id="ankara" />
+    <node id="baghdad" />
+    <node id="hamilton" />
+    <node id="newcastle" />
+    <node id="oxford" />
+    <node id="nov" />
+    <node id="jacksonville" />
+    <node id="liberia" />
+    <node id="budapest" />
+    <node id="miami" />
+    <node id="orlando" />
+    <node id="johannesburg" />
+    <node id="phoenix" />
+    <node id="tours" />
+    <node id="gold coast" />
+    <node id="north shore" />
+    <node id="bogota" />
+    <node id="madrid" />
+    <node id="osaka" />
+    <node id="manbij" />
+    <node id="birmingham" />
+    <node id="cairns" />
+    <node id="quebec" />
+    <node id="cleveland" />
+    <node id="halifax" />
+    <node id="panda" />
+    <node id="wollongong" />
+    <node id="kiev" />
+    <node id="chicago" />
+    <node id="panama" />
+    <node id="luxembourg" />
+    <node id="newark" />
+    <node id="morales" />
+    <node id="venezuela" />
+    <node id="glasgow" />
+    <node id="columbus" />
+    <node id="arizona" />
+    <node id="guangzhou" />
+    <node id="khartoum" />
+    <node id="vale" />
+    <node id="maiduguri" />
+    <node id="york" />
+    <node id="armenia" />
+    <node id="metro" />
+    <node id="blackburn" />
+    <node id="duncan" />
+    <node id="florida" />
+    <node id="fort worth" />
+    <node id="melbourne" />
+    <node id="roman" />
+    <node id="minsk" />
+    <node id="dublin" />
+    <node id="bristol" />
+    <node id="kathmandu" />
+    <node id="montreal" />
+    <node id="hyderabad" />
+    <node id="alexandria" />
+    <node id="leipzig" />
+    <node id="washington" />
+    <node id="bama" />
+    <node id="nanjing" />
+    <node id="philadelphia" />
+    <node id="lagos" />
+    <node id="kandahar" />
+    <node id="colombia" />
+    <node id="pyongyang" />
+    <node id="fukushima" />
+    <node id="oakland" />
+    <node id="florence" />
+    <node id="la paz" />
+    <node id="ghazni" />
+    <node id="rawalpindi" />
+    <node id="dandong" />
+    <node id="nagoya" />
+    <node id="imperial" />
+    <node id="abuja" />
+    <node id="manchester" />
+    <node id="lanzhou" />
+    <node id="karachi" />
+    <node id="mandurah" />
+    <node id="plunge" />
+    <node id="moscow" />
+    <node id="marrakech" />
+    <node id="orange" />
+    <node id="berlin" />
+    <node id="hamburg" />
+    <node id="tehran" />
+    <node id="atlanta" />
+    <node id="tampa" />
+    <node id="toronto" />
+    <node id="salvador" />
+    <node id="tokyo" />
+    <node id="islamabad" />
+    <node id="castro" />
+    <node id="urumqi" />
+    <node id="monrovia" />
+    <node id="concordia" />
+    <node id="suzhou" />
+    <node id="almaty" />
+    <node id="ballarat" />
+    <node id="beijing" />
+    <node id="addis ababa" />
+    <node id="mackay" />
+    <node id="rodriguez" />
+    <node id="boston" />
+    <node id="liverpool" />
+    <node id="barcelona" />
+    <node id="seattle" />
+    <node id="portland" />
+    <node id="adelaide" />
+    <node id="albany" />
+    <node id="herat" />
+    <node id="rochester" />
+    <node id="istanbul" />
+    <node id="dallas" />
+    <node id="harper" />
+    <node id="kuala lumpur" />
+    <node id="kabul" />
+    <node id="aleppo" />
+    <node id="santa maria" />
+    <node id="las vegas" />
+    <node id="bonanza" />
+    <node id="manila" />
+    <node id="warsaw" />
+    <node id="shenzhen" />
+    <node id="edinburgh" />
+    <node id="seoul" />
+    <node id="bali" />
+    <node id="victoria" />
+    <node id="skopje" />
+    <node id="brussels" />
+    <node id="southport" />
+    <node id="dhaka" />
+    <node id="dushanbe" />
+    <node id="omaha" />
+    <node id="ottawa" />
+    <node id="queanbeyan" />
+    <node id="sendai" />
+    <node id="rome" />
+    <node id="thames" />
+    <node id="los angeles" />
+    <edge source="houston" target="newark">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="houston" target="chihuahua">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="houston" target="shanghai">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="houston" target="los angeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="houston" target="sydney">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="madison" target="washington">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="madison" target="york">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="canberra" target="brisbane">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canberra" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canberra" target="cairns">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canberra" target="york">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="queen victoria" target="london">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="queen victoria" target="victoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="brisbane" target="ipswich">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="brisbane" target="gold coast">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="brisbane" target="sydney">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="brisbane" target="south brisbane">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cambridge" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cambridge" target="london">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="dhaka">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="belfast">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="moscow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="delhi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="khartoum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="victoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="perth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="sydney">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="thames">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london" target="brussels">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="london" target="glasgow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mosul" target="sydney">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="richmond" target="sydney">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chihuahua" target="portland">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="chihuahua" target="philadelphia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="chihuahua" target="los angeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="belfast" target="dublin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="belfast" target="glasgow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mumbai" target="delhi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="paris" target="liberia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="paris" target="madrid">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="paris" target="baghdad">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="paris" target="lagos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="paris" target="york">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="paris" target="new york city">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="shanghai" target="beijing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="shanghai" target="dushanbe">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="shanghai" target="tours">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="shanghai" target="oakland">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="shanghai" target="shenzhen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sochi" target="hamilton">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="damascus" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="new orleans" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="perth" target="albany">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="perth" target="mandurah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="perth" target="bali">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="perth" target="sydney">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="liverpool">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="wollongong">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="kabul">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="north shore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="melbourne">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="sydney" target="queanbeyan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="alexandria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sydney" target="newcastle">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="sydney" target="darwin">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="vancouver" target="beijing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="vancouver" target="las vegas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vancouver" target="bonanza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vancouver" target="quebec">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vancouver" target="montreal">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="phuket" target="melbourne">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="new york city" target="york">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="new york city" target="metro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="new york city" target="shenzhen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="delhi" target="kathmandu">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="delhi" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="delhi" target="tokyo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="virginia" target="florida">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="virginia" target="york">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="virginia" target="ottawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="ankara" target="washington">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="baghdad" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="baghdad" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="ottawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="nov" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nov" target="los angeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jacksonville" target="florida">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="jacksonville" target="york">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="liberia" target="leipzig">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="liberia" target="omaha">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="liberia" target="duncan">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="liberia" target="boston">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="liberia" target="dallas">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="liberia" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="liberia" target="monrovia">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="liberia" target="york">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="liberia" target="colombia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="liberia" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="budapest" target="tehran">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="miami" target="florida">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="orlando" target="johannesburg">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="phoenix" target="arizona">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="tours" target="dandong">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tours" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tours" target="concordia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tours" target="pyongyang">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gold coast" target="southport">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bogota" target="colombia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="madrid" target="columbus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="madrid" target="lagos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="madrid" target="atlanta">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="madrid" target="barcelona">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="osaka" target="nagoya">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="osaka" target="tokyo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="manbij" target="aleppo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="birmingham" target="manchester">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cairns" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="quebec" target="montreal">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cleveland" target="duncan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="halifax" target="ottawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="panda" target="edinburgh">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="panda" target="guangzhou">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="kiev" target="moscow">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="kiev" target="brussels">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="kiev" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="kiev" target="berlin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="kiev" target="minsk">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="chicago" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="bali">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="chicago" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="newark">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="glasgow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="warsaw">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="panama" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="luxembourg" target="hamburg">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="newark" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newark" target="washington">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newark" target="york">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="morales" target="bonanza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="morales" target="castro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="morales" target="la paz">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="venezuela" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="glasgow" target="edinburgh">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="glasgow" target="orange">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="glasgow" target="warsaw">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbus" target="santa maria">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="columbus" target="york">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vale" target="melbourne">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vale" target="bristol">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vale" target="adelaide">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maiduguri" target="bama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="beijing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="york" target="washington">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="york" target="kabul">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="rochester">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="york" target="dallas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="shenzhen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="victoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="tehran">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="toronto">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="york" target="metro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="york" target="florida">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="york" target="melbourne">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="york" target="monrovia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="armenia" target="moscow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="metro" target="manila">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="blackburn" target="mackay">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duncan" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duncan" target="dallas">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="florida" target="rochester">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="florida" target="tampa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fort worth" target="dallas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="melbourne" target="victoria">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="melbourne" target="imperial">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="melbourne" target="adelaide">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="roman" target="rome">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="minsk" target="moscow">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hyderabad" target="kuala lumpur">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="washington" target="beijing">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="washington" target="brussels">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="washington" target="tokyo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="washington" target="boston">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="washington" target="moscow">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="washington" target="pyongyang">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="washington" target="atlanta">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="washington" target="seattle">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="washington" target="abuja">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nanjing" target="suzhou">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="philadelphia" target="portland">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="kandahar" target="kabul">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="kandahar" target="herat">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="kandahar" target="ghazni">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="colombia" target="florence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="pyongyang" target="dandong">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="pyongyang" target="seoul">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="pyongyang" target="tokyo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="fukushima" target="sendai">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="la paz" target="castro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ghazni" target="kabul">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="ghazni" target="herat">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="rawalpindi" target="islamabad">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nagoya" target="tokyo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="manchester" target="beijing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="lanzhou" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lanzhou" target="urumqi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="karachi" target="islamabad">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="plunge" target="seoul">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="moscow" target="beijing">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="moscow" target="tehran">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="moscow" target="brussels">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="marrakech" target="addis ababa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="orange" target="edinburgh">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="atlanta" target="dallas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="toronto" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="salvador" target="rodriguez">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="urumqi" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="almaty" target="beijing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ballarat" target="victoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="beijing" target="istanbul">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="beijing" target="kuala lumpur">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="beijing" target="brussels">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="beijing" target="shenzhen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="herat" target="kabul">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="dallas" target="skopje">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harper" target="ottawa">
+      <data key="d0">24</data>
+    </edge>
+  </graph>
+</graphml>

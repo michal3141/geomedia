@@ -1,6 +1,7 @@
 import nltk
 import codecs
 import collections
+import csv
 from pprint import pprint
 
 nltk.download('punkt')
@@ -15,6 +16,7 @@ FILES = [
     BASE + 'en_AUS_hersun_int/rss_unique.csv',
     BASE + 'en_CAN_starca_int/rss_unique.csv',
     BASE + 'en_CHN_chinad_int/rss_unique.csv',
+    BASE + 'en_CHN_mopost_int/rss_unique.csv',
 ]
 
 
@@ -62,9 +64,22 @@ def extract_feeds(path):
     return records
 
 
+
+def read_cities():
+    with open('cities.csv', 'r') as f:
+        cities_csv = csv.reader(f, delimiter=';', quotechar='"')
+        cities = []
+        for row in cities_csv:
+            cities.append(row[2])
+        return cities
+
+
 if __name__ == '__main__':
 
     keywords = []
+
+    cities = read_cities()
+    cities = set(cities)
 
     for f in FILES:
         for id, text in extract_feeds(f):
@@ -76,10 +91,14 @@ if __name__ == '__main__':
             words.append(token)
     words = list(set(words))
 
-    counter=collections.Counter(words)
-    words = counter.most_common(1000)
-    words = map(lambda t: t[0], words)
+    #
+    # counter=collections.Counter(words)
+    # words = counter.most_common(20000)
+    # words = map(lambda t: t[0], words)
 
-    with codecs.open('keywords.dict', 'w', 'utf-8') as f:
+    words = filter(lambda w: w in cities, words)
+
+
+    with codecs.open('keywords3.dict', 'w', 'utf-8') as f:
         for token in words:
             f.write("%s\n" % token)
