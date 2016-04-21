@@ -1,0 +1,1788 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="jacki weaver" />
+    <node id="fisheries department" />
+    <node id="speed" />
+    <node id="jay leno" />
+    <node id="li" />
+    <node id="crennan" />
+    <node id="southwest england" />
+    <node id="hyon yong chol" />
+    <node id="hip" />
+    <node id="hit" />
+    <node id="murray valley" />
+    <node id="elizabeth ii" />
+    <node id="jp morgan" />
+    <node id="hamilton" />
+    <node id="falcon" />
+    <node id="timely" />
+    <node id="cooler" />
+    <node id="malala yousafzai" />
+    <node id="lightning" />
+    <node id="motoring" />
+    <node id="south asian association" />
+    <node id="two victorian liberal party" />
+    <node id="mohamed badie" />
+    <node id="senator eric abetz" />
+    <node id="golden triangle" />
+    <node id="der spiegel" />
+    <node id="south australian labor" />
+    <node id="us defense department" />
+    <node id="investigative committee" />
+    <node id="cfa" />
+    <node id="economic" />
+    <node id="anbang insurance group" />
+    <node id="driveway" />
+    <node id="iraqi kurdish" />
+    <node id="surgery" />
+    <node id="cfs" />
+    <node id="osaka city" />
+    <node id="adan garar" />
+    <node id="wollongong" />
+    <node id="chicago" />
+    <node id="harvey" />
+    <node id="cooking" />
+    <node id="arnhem land" />
+    <node id="london fashion week" />
+    <node id="abbott" />
+    <node id="fearless" />
+    <node id="attention" />
+    <node id="manson family" />
+    <node id="sinjar mountain" />
+    <node id="jason rezaian" />
+    <node id="rasuwa" />
+    <node id="sunanda" />
+    <node id="addax" />
+    <node id="figures" />
+    <node id="bexley" />
+    <node id="octopus" />
+    <node id="wills" />
+    <node id="sexual violence" />
+    <node id="outer melbourne" />
+    <node id="victorian liberal party" />
+    <node id="nigel" />
+    <node id="pervez musharraf" />
+    <node id="kasabian" />
+    <node id="oxford university" />
+    <node id="primary" />
+    <node id="gastronomy" />
+    <node id="colombia" />
+    <node id="arts" />
+    <node id="art gallery" />
+    <node id="strategy" />
+    <node id="live" />
+    <node id="robertson" />
+    <node id="weatherill" />
+    <node id="hotel kurrajong" />
+    <node id="tsakhiagiin elbegdorj" />
+    <node id="schroeder" />
+    <node id="actor robin williams" />
+    <node id="heat" />
+    <node id="western" />
+    <node id="samuel adams" />
+    <node id="taronga zoo" />
+    <node id="crowds" />
+    <node id="blade" />
+    <node id="new queensland" />
+    <node id="seif" />
+    <node id="daddy" />
+    <node id="aaas" />
+    <node id="high" />
+    <node id="londoner" />
+    <node id="infront" />
+    <node id="ballina" />
+    <node id="media" />
+    <node id="chinese ambassador" />
+    <node id="gina rinehart" />
+    <node id="member" />
+    <node id="belarussian" />
+    <node id="united nations mission" />
+    <node id="barrage" />
+    <node id="free trade area" />
+    <node id="art festival" />
+    <node id="euro" />
+    <node id="assets" />
+    <node id="south west" />
+    <node id="egg" />
+    <node id="hillary" />
+    <node id="us east coast" />
+    <node id="port noarlunga" />
+    <node id="pandora" />
+    <node id="david liam johnson" />
+    <node id="corporate" />
+    <node id="greens mp" />
+    <edge source="jacki weaver" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fisheries department" target="hit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="cooking">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="speed" target="free trade area">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="speed" target="media">
+      <data key="d0">130</data>
+    </edge>
+    <edge source="speed" target="attention">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="speed" target="hillary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="li">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="speed" target="high">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="speed" target="live">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="speed" target="economic">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="speed" target="figures">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="speed" target="western">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="speed" target="hit">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="speed" target="strategy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="speed" target="motoring">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="speed" target="lightning">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="speed" target="euro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jay leno" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="li" target="timely">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="li" target="member">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="li" target="abbott">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="li" target="media">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="li" target="elizabeth ii">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="li" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="li" target="chinese ambassador">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="li" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="li" target="high">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="li" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="li" target="economic">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="li" target="figures">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="li" target="western">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="li" target="colombia">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="li" target="corporate">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="li" target="euro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="crennan" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="crennan" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="southwest england" target="hit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hyon yong chol" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hip" target="member">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hip" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hip" target="hit">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="hip" target="media">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="hip" target="art gallery">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hip" target="cooking">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hip" target="primary">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hip" target="strategy">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hip" target="high">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="hip" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hip" target="economic">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hip" target="surgery">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="hit" target="nigel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hit" target="pervez musharraf">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="primary">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="hit" target="high">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="hit" target="gastronomy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="economic">
+      <data key="d0">136</data>
+    </edge>
+    <edge source="hit" target="driveway">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="hit" target="colombia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="iraqi kurdish">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="surgery">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="hit" target="arts">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="hit" target="wollongong">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="chicago">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="ballina">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="media">
+      <data key="d0">538</data>
+    </edge>
+    <edge source="hit" target="cooking">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="strategy">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="hit" target="member">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="hit" target="live">
+      <data key="d0">382</data>
+    </edge>
+    <edge source="hit" target="us east coast">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="hit" target="motoring">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="abbott">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="hit" target="jp morgan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="murray valley">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="attention">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="hit" target="rasuwa">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="hit" target="heat">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="hit" target="barrage">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="hit" target="western">
+      <data key="d0">138</data>
+    </edge>
+    <edge source="hit" target="robertson">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="falcon">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="sexual violence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="euro">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="hit" target="assets">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="hit" target="south west">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hit" target="sunanda">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="hit" target="crowds">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="hit" target="blade">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="hillary">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hit" target="lightning">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="hit" target="malala yousafzai">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="hit" target="figures">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="hit" target="seif">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="harvey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="daddy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="corporate">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="hit" target="port noarlunga">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hit" target="outer melbourne">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="elizabeth ii" target="media">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="jp morgan" target="media">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="jp morgan" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jp morgan" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jp morgan" target="economic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jp morgan" target="figures">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jp morgan" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jp morgan" target="euro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="oxford university">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="hamilton" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hamilton" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="falcon" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="falcon" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="falcon" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="falcon" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="timely" target="media">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="timely" target="attention">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="timely" target="primary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="high">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="timely" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="economic">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="timely" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="timely" target="euro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cooler" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cooler" target="economic">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cooler" target="primary">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cooler" target="colombia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cooler" target="strategy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="malala yousafzai" target="media">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="malala yousafzai" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="malala yousafzai" target="primary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="malala yousafzai" target="live">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="malala yousafzai" target="economic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="malala yousafzai" target="western">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="malala yousafzai" target="surgery">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="assets">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="south west">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="media">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="lightning" target="live">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="lightning" target="high">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="lightning" target="heat">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="lightning" target="western">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="lightning" target="colombia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="lightning" target="fearless">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lightning" target="weatherill">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="lightning" target="cfs">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="lightning" target="driveway">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="motoring" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="motoring" target="media">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="motoring" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="motoring" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="motoring" target="nigel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="south asian association" target="member">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="two victorian liberal party" target="victorian liberal party">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mohamed badie" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mohamed badie" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="mohamed badie" target="figures">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senator eric abetz" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="golden triangle" target="economic">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="der spiegel" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="der spiegel" target="hillary">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="der spiegel" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="south australian labor" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="south australian labor" target="economic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="us defense department" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="investigative committee" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="investigative committee" target="live">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="investigative committee" target="figures">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cfa" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cfa" target="blade">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cfa" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cfa" target="figures">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cfa" target="western">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cfa" target="cfs">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cfa" target="weatherill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="nigel">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="economic" target="oxford university">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="primary">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="economic" target="high">
+      <data key="d0">240</data>
+    </edge>
+    <edge source="economic" target="londoner">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="colombia">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="economic" target="surgery">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="arts">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="economic" target="free trade area">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="economic" target="chicago">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="media">
+      <data key="d0">900</data>
+    </edge>
+    <edge source="economic" target="wills">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="cooking">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="economic" target="belarussian">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="chinese ambassador">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="economic" target="strategy">
+      <data key="d0">84</data>
+    </edge>
+    <edge source="economic" target="member">
+      <data key="d0">174</data>
+    </edge>
+    <edge source="economic" target="live">
+      <data key="d0">276</data>
+    </edge>
+    <edge source="economic" target="arnhem land">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="economic" target="robertson">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="crowds">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="economic" target="abbott">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="economic" target="tsakhiagiin elbegdorj">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="fearless">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="economic" target="attention">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="economic" target="rasuwa">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="economic" target="hillary">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="economic" target="western">
+      <data key="d0">156</data>
+    </edge>
+    <edge source="economic" target="art festival">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="economic" target="euro">
+      <data key="d0">146</data>
+    </edge>
+    <edge source="economic" target="assets">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="economic" target="heat">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="economic" target="figures">
+      <data key="d0">126</data>
+    </edge>
+    <edge source="economic" target="harvey">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="economic" target="corporate">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="economic" target="sexual violence">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="anbang insurance group" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="driveway" target="member">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="driveway" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="driveway" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="driveway" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="driveway" target="fearless">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="iraqi kurdish" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="iraqi kurdish" target="live">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="iraqi kurdish" target="sinjar mountain">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="surgery" target="high">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="surgery" target="abbott">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="surgery" target="attention">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="surgery" target="media">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="surgery" target="cooking">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="surgery" target="strategy">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="surgery" target="member">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="surgery" target="live">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="surgery" target="figures">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="surgery" target="western">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="surgery" target="colombia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cfs" target="abbott">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cfs" target="media">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="cfs" target="blade">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cfs" target="high">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="cfs" target="live">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="cfs" target="figures">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cfs" target="western">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="cfs" target="weatherill">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="osaka city" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="adan garar" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="adan garar" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wollongong" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="member">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="chicago" target="aaas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="assets">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="media">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="chicago" target="cooking">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="arts">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="strategy">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="chicago" target="high">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="chicago" target="live">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="chicago" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="arts">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="media">
+      <data key="d0">62</data>
+    </edge>
+    <edge source="harvey" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="nigel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvey" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cooking" target="member">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="cooking" target="nigel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cooking" target="media">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="cooking" target="attention">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="cooking" target="live">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="cooking" target="high">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="cooking" target="heat">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="cooking" target="figures">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="cooking" target="western">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="cooking" target="colombia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cooking" target="robertson">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arnhem land" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arnhem land" target="arts">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="arnhem land" target="abbott">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="arnhem land" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="london fashion week" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="london fashion week" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="victorian liberal party">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="nigel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="primary">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="abbott" target="high">
+      <data key="d0">96</data>
+    </edge>
+    <edge source="abbott" target="colombia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="abbott" target="strategy">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="abbott" target="arts">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="abbott" target="media">
+      <data key="d0">244</data>
+    </edge>
+    <edge source="abbott" target="live">
+      <data key="d0">364</data>
+    </edge>
+    <edge source="abbott" target="member">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="abbott" target="robertson">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="abbott" target="weatherill">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="abbott" target="hotel kurrajong">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="fearless">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="abbott" target="attention">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="abbott" target="heat">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="abbott" target="western">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="abbott" target="assets">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="abbott" target="taronga zoo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="south west">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="abbott" target="crowds">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="abbott" target="figures">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="abbott" target="corporate">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="fearless" target="member">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="fearless" target="media">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="fearless" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fearless" target="live">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="fearless" target="figures">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="attention" target="nigel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="attention" target="pervez musharraf">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="attention" target="primary">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="attention" target="high">
+      <data key="d0">82</data>
+    </edge>
+    <edge source="attention" target="colombia">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="attention" target="strategy">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="attention" target="arts">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="attention" target="media">
+      <data key="d0">364</data>
+    </edge>
+    <edge source="attention" target="member">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="attention" target="live">
+      <data key="d0">84</data>
+    </edge>
+    <edge source="attention" target="crowds">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="attention" target="londoner">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="attention" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="attention" target="western">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="attention" target="euro">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="attention" target="assets">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="attention" target="hillary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="attention" target="figures">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="attention" target="corporate">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="attention" target="sexual violence">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="manson family" target="member">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="manson family" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sinjar mountain" target="heat">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="jason rezaian" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="jason rezaian" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jason rezaian" target="figures">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="rasuwa" target="high">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="rasuwa" target="media">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="rasuwa" target="member">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="rasuwa" target="live">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="rasuwa" target="western">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="rasuwa" target="crowds">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="sunanda" target="media">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="addax" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="nigel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="figures" target="pervez musharraf">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="primary">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="figures" target="high">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="figures" target="strategy">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="figures" target="arts">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="figures" target="media">
+      <data key="d0">352</data>
+    </edge>
+    <edge source="figures" target="art gallery">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="member">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="figures" target="live">
+      <data key="d0">102</data>
+    </edge>
+    <edge source="figures" target="euro">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="figures" target="crowds">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="figures" target="heat">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="figures" target="barrage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="western">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="figures" target="samuel adams">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="weatherill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="assets">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="figures" target="south west">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="figures" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="figures" target="blade">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="figures" target="hillary">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="figures" target="seif">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="figures" target="corporate">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="figures" target="sexual violence">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="bexley" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bexley" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="octopus" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="octopus" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sexual violence" target="high">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="sexual violence" target="media">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="sexual violence" target="primary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sexual violence" target="strategy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="sexual violence" target="member">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="sexual violence" target="live">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="sexual violence" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sexual violence" target="colombia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="sexual violence" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="outer melbourne" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="victorian liberal party" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nigel" target="high">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="nigel" target="media">
+      <data key="d0">106</data>
+    </edge>
+    <edge source="nigel" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nigel" target="member">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="nigel" target="live">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="nigel" target="oxford university">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nigel" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nigel" target="euro">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="pervez musharraf" target="high">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="pervez musharraf" target="media">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="kasabian" target="media">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="kasabian" target="live">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="oxford university" target="media">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="oxford university" target="strategy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford university" target="live">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="primary" target="high">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="primary" target="arts">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="primary" target="media">
+      <data key="d0">106</data>
+    </edge>
+    <edge source="primary" target="art gallery">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="primary" target="strategy">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="primary" target="member">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="primary" target="live">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="primary" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="primary" target="western">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="primary" target="euro">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="primary" target="assets">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="primary" target="hillary">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="primary" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gastronomy" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="gastronomy" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="colombia" target="high">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="colombia" target="assets">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="colombia" target="media">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="colombia" target="chinese ambassador">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="colombia" target="member">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="colombia" target="strategy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="colombia" target="live">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="colombia" target="western">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="colombia" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="colombia" target="crowds">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arts" target="high">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="arts" target="media">
+      <data key="d0">110</data>
+    </edge>
+    <edge source="arts" target="art gallery">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="arts" target="blade">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arts" target="strategy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="arts" target="member">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="arts" target="live">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="arts" target="western">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="arts" target="corporate">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="arts" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="strategy" target="high">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="strategy" target="media">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="strategy" target="member">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="strategy" target="live">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="strategy" target="heat">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="strategy" target="western">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="strategy" target="euro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="strategy" target="assets">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="strategy" target="greens mp">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="strategy" target="hillary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="strategy" target="corporate">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="live" target="high">
+      <data key="d0">294</data>
+    </edge>
+    <edge source="live" target="media">
+      <data key="d0">870</data>
+    </edge>
+    <edge source="live" target="chinese ambassador">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="live" target="member">
+      <data key="d0">158</data>
+    </edge>
+    <edge source="live" target="us east coast">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="live" target="weatherill">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="live" target="crowds">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="live" target="corporate">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="live" target="hillary">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="live" target="barrage">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="live" target="western">
+      <data key="d0">146</data>
+    </edge>
+    <edge source="live" target="robertson">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="live" target="euro">
+      <data key="d0">146</data>
+    </edge>
+    <edge source="live" target="assets">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="live" target="south west">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="live" target="blade">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="live" target="heat">
+      <data key="d0">62</data>
+    </edge>
+    <edge source="live" target="daddy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="live" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="robertson" target="high">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="robertson" target="south west">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="robertson" target="media">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="robertson" target="heat">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="robertson" target="member">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="robertson" target="western">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="weatherill" target="media">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="weatherill" target="blade">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="weatherill" target="high">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="weatherill" target="western">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="schroeder" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="actor robin williams" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="heat" target="high">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="heat" target="media">
+      <data key="d0">100</data>
+    </edge>
+    <edge source="heat" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="heat" target="crowds">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="heat" target="western">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="heat" target="euro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="heat" target="daddy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="western" target="high">
+      <data key="d0">160</data>
+    </edge>
+    <edge source="western" target="ballina">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="western" target="media">
+      <data key="d0">724</data>
+    </edge>
+    <edge source="western" target="member">
+      <data key="d0">76</data>
+    </edge>
+    <edge source="western" target="crowds">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="western" target="barrage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="western" target="euro">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="western" target="assets">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="western" target="south west">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="western" target="corporate">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="western" target="blade">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="western" target="david liam johnson">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="western" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="taronga zoo" target="high">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="crowds" target="member">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="crowds" target="south west">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="crowds" target="media">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="crowds" target="high">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="blade" target="media">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="new queensland" target="corporate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="seif" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="daddy" target="media">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="aaas" target="media">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="high" target="media">
+      <data key="d0">860</data>
+    </edge>
+    <edge source="high" target="member">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="high" target="euro">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="high" target="barrage">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="high" target="assets">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="high" target="south west">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="high" target="corporate">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="high" target="hillary">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="high" target="egg">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="londoner" target="media">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="infront" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="media" target="egg">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="media" target="chinese ambassador">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="media" target="gina rinehart">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="media" target="member">
+      <data key="d0">712</data>
+    </edge>
+    <edge source="media" target="hillary">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="media" target="barrage">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="media" target="art festival">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="media" target="euro">
+      <data key="d0">120</data>
+    </edge>
+    <edge source="media" target="assets">
+      <data key="d0">102</data>
+    </edge>
+    <edge source="media" target="south west">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="media" target="pandora">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="media" target="us east coast">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="media" target="corporate">
+      <data key="d0">150</data>
+    </edge>
+    <edge source="chinese ambassador" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gina rinehart" target="member">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="member" target="free trade area">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="member" target="united nations mission">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="member" target="hillary">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="member" target="barrage">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="member" target="euro">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="member" target="assets">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="member" target="south west">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="member" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="member" target="greens mp">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="member" target="corporate">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="barrage" target="hillary">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="barrage" target="egg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="barrage" target="euro">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="euro" target="assets">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="euro" target="corporate">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="assets" target="corporate">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="hillary" target="corporate">
+      <data key="d0">6</data>
+    </edge>
+  </graph>
+</graphml>
