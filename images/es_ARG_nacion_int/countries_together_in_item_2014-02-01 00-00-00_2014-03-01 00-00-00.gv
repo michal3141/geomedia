@@ -1,0 +1,6 @@
+// Countries together in item graph
+graph {
+	graph [bgcolor="#888888" fontcolor=white fontsize=12 label="Graph" outputorder=edgesfirst overlap=prism]
+	node [color=white fillcolor="#006699" fontcolor=white fontname=Helvetica shape=hexagon style=filled]
+	edge [arrowhead=open color=black fontcolor=white fontname=Courier fontsize=12]
+}
