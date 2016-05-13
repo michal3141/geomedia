@@ -35,7 +35,7 @@ styles = {
 }
 
 # Visualizing countries that appear together in one item as a graph
-def visualize_countries_together_in_item(data, start_time_str=None, end_time_str=None):
+def visualize_countries_together_in_item(data, start_time_str=None, end_time_str=None, newspaper_str='*'):
     countries_together_dict = _get_countries_together_in_items(data)
     # print 'countries_together_dict:', countries_together_dict
     dot = Graph(comment='Countries together in item graph', engine='sfdp')
@@ -61,7 +61,9 @@ def visualize_countries_together_in_item(data, start_time_str=None, end_time_str
     
     dot = _apply_styles(dot, styles)
     # print dot.source
-    dot.render(os.path.join('images', 'countries_together_in_item_%s_%s.gv' % (start_time_str, end_time_str)), view=True)
+    out_dirname = newspaper_str.replace('*', '')
+    out_filename = ('countries_together_in_item_%s_%s.gv' % (start_time_str, end_time_str)).replace(':', '-')
+    dot.render(os.path.join('images', out_dirname, out_filename), view=False)
 
 def _get_countries_together_in_items(data):
     ID_to_country_list = defaultdict(list)
@@ -83,19 +85,27 @@ def _apply_styles(graph, styles):
 
 def main():
     DATETIME_FMT = '%Y-%m-%d %H:%M:%S' 
-    data = get_by_pattern('*/*/*/rss_unique_TAG_country_Ebola.csv')
     # Restricting analyzed data to particular timespan (timerange: <start_time -> end_time>)
     start_time, end_time, start_time_str, end_time_str = None, None, None, None
-    if len(sys.argv) == 3:
-        # Example usage: ./analyze.py '2014-01-01 00:00:00' '2015-02-01 00:00:00'
+    if len(sys.argv) >= 3:
+        # Example usage: ./analyze.py '2014-01-01 00:00:00' '2015-02-01 00:00:00' 'en_AUS_austra_int'
 
         start_time_str = sys.argv[1]
         end_time_str = sys.argv[2]
+        try: 
+            newspaper_str = sys.argv[3]
+            print 'Using newspaper: %s' % newspaper_str
+        except:
+            newspaper_str = '*'
+            print 'No provided newspaper - using all newspapers'
+
         start_time = datetime.datetime.strptime(start_time_str, DATETIME_FMT)
         end_time = datetime.datetime.strptime(end_time_str, DATETIME_FMT)
         print 'Using start_time:', start_time
         print 'Using end_time:', end_time
-        
+         
+    data = get_by_pattern('*/*/%s/rss_unique_TAG_country_Ebola.csv' % newspaper_str)
+
     data_filtered_by_time = []
     print 'Starting filtering by time...'
     for item in data:
@@ -108,7 +118,7 @@ def main():
         data_filtered_by_time.append(item)
     print 'Filtering by time has finished.'
 
-    visualize_countries_together_in_item(data_filtered_by_time, start_time_str=start_time_str, end_time_str=end_time_str)
+    visualize_countries_together_in_item(data_filtered_by_time, start_time_str=start_time_str, end_time_str=end_time_str, newspaper_str=newspaper_str)
     # data.sort(key=itemgetter('ID'))
     # for d in data:
     #    print d['ID']
