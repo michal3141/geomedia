@@ -43,14 +43,17 @@ def visualize_countries_together_in_item(data, start_time_str=None, end_time_str
     edges_between_countries = defaultdict(int)
 
     ## Building the graph
-    for ID, countries in countries_together_dict.iteritems():
-        for country in countries:
+    for ID_and_feed, countries in countries_together_dict.iteritems():
+        countries_list = list(countries)
+        for country in countries_list:
             if country != '' and country not in seen_countries:
                 dot.node(country, label=country)
                 seen_countries.add(country)
         for i in xrange(len(countries)):
             for j in xrange(i+1, len(countries)):
-                edges_between_countries[(countries[i], countries[j])] += 1
+                fst = min(countries_list[i], countries_list[j])
+                snd = max(countries_list[i], countries_list[j])
+                edges_between_countries[(fst, snd)] += 1
 
     for edge_endpoints, edge_weight in edges_between_countries.iteritems():
         dot.edge(edge_endpoints[0], edge_endpoints[1], weight=str(edge_weight))
@@ -66,9 +69,9 @@ def visualize_countries_together_in_item(data, start_time_str=None, end_time_str
     dot.render(os.path.join('images', out_dirname, out_filename), view=False)
 
 def _get_countries_together_in_items(data):
-    ID_to_country_list = defaultdict(list)
+    ID_to_country_list = defaultdict(set)
     for d in data:
-        ID_to_country_list[d['ID']].append(d['TAG_country'])
+        ID_to_country_list[(d['ID'], d['feed'])].add(d['TAG_country'])
     return ID_to_country_list
 
 def _apply_styles(graph, styles):
