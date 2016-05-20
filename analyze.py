@@ -64,7 +64,7 @@ def visualize_countries_together_in_item(data, start_time_str=None, end_time_str
     
     dot = _apply_styles(dot, styles)
     # print dot.source
-    out_dirname = newspaper_str.replace('*', '')
+    out_dirname = newspaper_str.replace('*', '').replace('!', '').replace('[', '').replace(']', '')
     out_filename = ('countries_together_in_item_%s_%s.gv' % (start_time_str, end_time_str)).replace(':', '-')
     dot.render(os.path.join('images', out_dirname, out_filename), view=False)
 
